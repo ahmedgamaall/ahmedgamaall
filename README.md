@@ -6,6 +6,9 @@
 
 <img align="right" alt="coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.gReLR6hZjwyBxHmfLN1AVwHaFj%26pid%3DApi&f=1&ipt=977942f70d01732e1cd340228131490bf3cb43d0b89a9e9cd0a2e41f61939e27&ipo=images">-->
 
+
+<img align="right" alt="coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.gReLR6hZjwyBxHmfLN1AVwHaFj%26pid%3DApi&f=1&ipt=977942f70d01732e1cd340228131490bf3cb43d0b89a9e9cd0a2e41f61939e27&ipo=images">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/jimmy90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jimmy90" height="30" width="40" /></a>
