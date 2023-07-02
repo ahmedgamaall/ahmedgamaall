@@ -5,6 +5,11 @@
 <img align="right" alt="coding" width="400" height="250"  src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.4fNBO_UDYEVxM0E5T2FyJQHaFj%26pid%3DApi&f=1&ipt=80022f9fb150658147c027c6599a4ac13ec3788fb5a098418e8fdd4d528c0af4&ipo=images">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedgamaall&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedgamaall" /> </p>
 
+- 💬 Ask me about **Programming, Dart, Flutter,**
+
+- 📫 How to reach me **ahmedgamalahmed231@gmail.com**
+
+- ⚡ Fun fact **I am funny😂**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/jimmy90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jimmy90" height="30" width="40" /></a>
